@@ -2,7 +2,7 @@
 
 MP3 music to choose to upload in JKL music player
 
-Steps:
+How to use the repository:
 
 1. Choose audio you want to upload
 2. Click right click the download link
